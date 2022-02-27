@@ -1,0 +1,195 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ordinance of the Lords &amp; Commons assembled in Parliament, authorizing the Committee of Lords and Commons for the army and treasurerrs [sic] at wars, for the better levying and orderly issuing forth of the sixty thousand pounds per mensem, assessed or to be assessed by vertue of an ordinance of Parliament of the 23. June last past, to have the care and managing of that whole business, as to those ends and purposes in the said ordinance, and in this present ordinance, are expressed. Ordered by the Commons assembled in Parliament, that this ordinance be forthwith printed and published. H: Elsynge, Cler. Parl. D. Com.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83020</idno>
+            <idno type="STC">Wing E1807</idno>
+            <idno type="STC">Thomason E409_6</idno>
+            <idno type="STC">ESTC R204418</idno>
+            <idno type="EEBO-CITATION">99863912</idno>
+            <idno type="PROQUEST">99863912</idno>
+            <idno type="VID">116128</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A83020)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116128)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 65:E409[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ordinance of the Lords &amp; Commons assembled in Parliament, authorizing the Committee of Lords and Commons for the army and treasurerrs [sic] at wars, for the better levying and orderly issuing forth of the sixty thousand pounds per mensem, assessed or to be assessed by vertue of an ordinance of Parliament of the 23. June last past, to have the care and managing of that whole business, as to those ends and purposes in the said ordinance, and in this present ordinance, are expressed. Ordered by the Commons assembled in Parliament, that this ordinance be forthwith printed and published. H: Elsynge, Cler. Parl. D. Com.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>15, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edward Husband, Printer to the Honorable House of Commons,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Sept. 28. 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Appropriations and expenditures --  Early works to 1800.</term>
+               <term>Taxation --  Law and legislation --  Great Britain --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Finance --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <p>
+               <pb facs="tcp:116128:1" rendition="simple:additions"/>
+AN ORDINANCE OF THE <hi>LORDS</hi> &amp; <hi>COMMONS</hi> Aſſembled in PARLIAMENT, Authorizing the Committee of Lords and Commons for the ARMY and Treaſurerrs at WARS, For the better levying and orderly iſſuing forth of the Sixty thouſand pounds <hi>per menſem,</hi> aſſeſſed or to be aſſeſſed by vertue of an Ordinance of Parliament of the 23. <hi>June</hi> laſt paſt, to have the care and managing of that whole Buſineſs, as to thoſe ends and purpoſes in the ſaid Ordinance, and in this preſent Ordinance, are expreſſed.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>
+                           <hi>ORdered by the Commons aſſembled in Parliament, That this Ordinance be forthwith Printed and Publiſhed.</hi>
+                        </p>
+                        <closer>
+                           <signed>H: Elſynge, Cler. Parl. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Edward Husband,</hi> Printer to the Honorable Houſe of Commons, Sept. 28. 1647.</p>
+            <pb facs="tcp:116128:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="ordinance">
+            <pb n="3" facs="tcp:116128:2"/>
+            <head>
+               <date>23 <hi>Septembr.</hi> 1647.</date>
+            </head>
+            <head type="sub">AN ORDINANCE OF THE <hi>LORDS</hi> &amp; <hi>COMMONS</hi> Aſſembled in Parliament, For Members of both Houſes to be a Committee for the ARMY, for diſ<g ref="char:EOLhyphen"/>poſing of the Sixty thouſand pounds a Moneth.</head>
+            <p>
+               <hi>WHereas by an Ordinance of Parliament of the Three and twentieth of</hi> June <hi>laſt paſt (entituled,</hi> An Or<g ref="char:EOLhyphen"/>dinance of the Lords and Commons
+<pb n="4" facs="tcp:116128:3"/>
+               <hi>aſſembled in Parliament, For the raiſing of Moneys to be employed towards the maintenance of Forces within this King<g ref="char:EOLhyphen"/>dom, under the Command of Sir Tho<g ref="char:EOLhyphen"/>mas Fairfax Knight; and for the ſpeedy Tranſporting of, and paying the Forces for the carrying on of the War of Ire<g ref="char:EOLhyphen"/>land)</hi> the Monethly ſum of Sixty thouſand pounds is to be forth<g ref="char:EOLhyphen"/>with Aſſeſſed on the reſpective Counties, Cities and places there<g ref="char:EOLhyphen"/>in mentioned, within the King<g ref="char:EOLhyphen"/>dom of <hi>England</hi> and Dominion of <hi>Wales,</hi> to continue for Twelve Moneths from the Five and twen<g ref="char:EOLhyphen"/>tieth of <hi>March</hi> laſt paſt, 1647. until the Five and twentieth of <hi>March</hi> next, 1648. but no perſons are no<g ref="char:EOLhyphen"/>minated and appointed by the ſaid Ordinance to receive and iſſue the ſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>id Moneys; To the end therefore that the Moneys ap<g ref="char:EOLhyphen"/>pointed to be Taxed and Lovied
+<pb n="5" facs="tcp:116128:3"/>
+by the ſaid Ordinance of Parlia<g ref="char:EOLhyphen"/>ment, may be more orderly recei<g ref="char:EOLhyphen"/>ved and iſſued out, The Lords and Commons in Parliament aſ<g ref="char:EOLhyphen"/>ſembled have Ordained, and be it Ordained by Authority of Par<g ref="char:EOLhyphen"/>liament, That Sir <hi>John Wollaſton</hi> Knight, <hi>Thomas Adams, John War<g ref="char:EOLhyphen"/>ner, Thomas Andrews,</hi> and <hi>George Wi<g ref="char:EOLhyphen"/>tham,</hi> Aldermen of the City of <hi>Lon<g ref="char:EOLhyphen"/>don, Francis Allein,</hi> and <hi>John Dethick</hi> of <hi>London,</hi> Merchants, ſhall be Treaſurers at Wars for the re<g ref="char:EOLhyphen"/>ceiving and iſſuing forth of all the Moneys to be aſſeſſed, levied and paid by <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ertue of the ſaid Ordi<g ref="char:EOLhyphen"/>nance of the 23 of <hi>June</hi> laſt paſt, for the purpoſes therein men<g ref="char:EOLhyphen"/>tioned, according to the Directi<g ref="char:EOLhyphen"/>ons hereafter expreſſed. And be it likewiſe Ordained, That the ſaid Treaſurers at Wars ſhall re<g ref="char:EOLhyphen"/>ceive from the ſeveral Collectors
+<pb n="6" facs="tcp:116128:4"/>
+and Officers appointed and to be appointed by vertue of the ſaid Ordinance, all the Moneys to be taxed, levied and paid by ver<g ref="char:EOLhyphen"/>tue thereof; And all and every the ſaid Collectors and Officers are hereby enjoyned and required to pay unto the ſaid Treaſurers all the ſaid ſeveral ſums of Mo<g ref="char:EOLhyphen"/>ney which ſhall be by them recei<g ref="char:EOLhyphen"/>ved by vertue of the ſaid Ordi<g ref="char:EOLhyphen"/>nance, to be by the ſaid Treaſu<g ref="char:EOLhyphen"/>rers iſſued forth to the intents and purpoſes therein mentioned, and the charges incident to the ſame: And that every County, City, Bo<g ref="char:EOLhyphen"/>rough and other place, may be ful<g ref="char:EOLhyphen"/>ly aſſeſſed, according to the Rate by the ſaid Ordinance of the 23. of <hi>June</hi> laſt, intended to be taxed and aſ<g ref="char:EOLhyphen"/>ſeſſed upon them: And in caſe there ſhould be default in any of the Commiſsioners appointed by
+<pb n="7" facs="tcp:116128:4"/>
+the ſaid Ordinance, in the making of the ſaid Aſſeſſment, or in any County, City, Borough or other place in paying of the ſums aſſeſ<g ref="char:EOLhyphen"/>ſed, or to be aſſeſſed, or any negli<g ref="char:EOLhyphen"/>gence or default in any Aſſeſſor, Collector or other Officer, Mini<g ref="char:EOLhyphen"/>ſter or Agent appointed or to be appointed by vertue of the ſaid Ordinance; And for the more ef<g ref="char:EOLhyphen"/>fectual carrying on of the whole work, Be it Ordained, That the Earl of <hi>Northumberland,</hi> the Earl of <hi>Kent,</hi> the Earl of <hi>Rutland,</hi> the Earl of <hi>Pembroke,</hi> the Earl of <hi>Sa<g ref="char:EOLhyphen"/>lisbury,</hi> the Earl of <hi>Denbigh,</hi> the Earl of <hi>Warwick,</hi> the Lord Viſ<g ref="char:EOLhyphen"/>count <hi>Say</hi> and <hi>Seal,</hi> the Lord <hi>Whar<g ref="char:EOLhyphen"/>ton,</hi> the Lord <hi>Howard,</hi> Mr. Soli<g ref="char:EOLhyphen"/>citor, Sir <hi>Henry Vane</hi> junior, Mr. <hi>Crew,</hi> Mr. <hi>Pierrepont,</hi> Colonel <hi>Moun<g ref="char:EOLhyphen"/>tague, Nathanael Fiennes,</hi> Sir <hi>John Evelyn,</hi> Mr. <hi>Ellis,</hi> Mr. <hi>Reynolds,</hi>
+               <pb n="8" facs="tcp:116128:5"/>
+Colonel <hi>Venne,</hi> Mr. <hi>Thomas Hod<g ref="char:EOLhyphen"/>ges,</hi> Mr. <hi>Pury,</hi> Mr. <hi>Prideaux,</hi> Mr. <hi>Bond,</hi> Sir <hi>Arthur Haſlerig,</hi> Mr. <hi>Sca<g ref="char:EOLhyphen"/>wen,</hi> Sir <hi>Gilbert Gerrard,</hi> Sir <hi>Tho<g ref="char:EOLhyphen"/>mas Widdrington,</hi> Mr. <hi>Leman,</hi> Mr. <hi>Luke Hodges,</hi> and Mr. <hi>Robert Jen<g ref="char:EOLhyphen"/>neur,</hi> Mombers of the Commons Houſe of Parliament: And the ſaid Treaſurers, or any five of them, whereof four to be Mem<g ref="char:EOLhyphen"/>bers of either of the Houſes of Parliament, ſhall have the care and managing of the Buſineſſes upon the ſaid Ordinance, for the better bringing in of the moneys aſſeſſed or to be aſseſsed upon or by vertue of the ſaid Ordinance, for payment of the ſaid Forces there<g ref="char:EOLhyphen"/>in mentioned, and of the charges incident thereunto, with all ſuch Powers and Authorities to them or any of them, given, limited and expreſsed in an Ordinance of Par<g ref="char:EOLhyphen"/>liament
+<pb n="9" facs="tcp:116128:5"/>
+bearing date the fifteenth day of <hi>February,</hi> 1645. And the ſaid Committee and Treaſurers, or any five of them as aforeſaid, ſhall have full power, and they are hereby authorized in as full and ample maner, to all intents and purpoſes, as are given, limited or mentioned in an Ordinance of Parliament dated the Twelfth day of <hi>June,</hi> 1645. unto the Com<g ref="char:EOLhyphen"/>mittee at Goldſmiths Hall for <hi>Scots</hi> Affairs, to manage the Ordinance of the Twentieth of <hi>February,</hi> 1644. to cauſe the full and ſpeedy aſ<g ref="char:EOLhyphen"/>ſeſsing, collecting and bringing in of the ſaid moneys, either by ma<g ref="char:EOLhyphen"/>king Diſpatches, appointing of Forces, or giving Directions, Rules or Inſtructions, or other<g ref="char:EOLhyphen"/>wiſe to cauſe obedience thereunto, as to them in their wiſdoms and good diſcretions ſhall ſeem moſt
+<pb n="10" facs="tcp:116128:6"/>
+fit and expedient, be it by Fine or Impriſonment of the parties of<g ref="char:EOLhyphen"/>fending, the Fine not exceeding Twenty pounds, to be employed for the uſe of the aforeſaid Forces mentioned in the ſaid Ordinance.</p>
+            <p>And be it farther Ordained, That the Receipt of the ſaid Trea<g ref="char:EOLhyphen"/>ſurers, or any two of them, ſhall be a ſufficient Diſcharge to every Collector or other perſon that ſhall pay in any money that ſhall be taxed, levied and paid by vertue of the ſaid Ordinance of the Three and twentieth of <hi>June</hi> laſt paſt: And that the ſaid Members of the Houſe of Commons, or any five of them, ſhall have power, and are hereby authorized to give War<g ref="char:EOLhyphen"/>rants to the ſaid Treaſurers at War, or any two of them, for the iſſuing forth of ſuch moneys as they ſhall receive by vertue of the
+<pb n="11" facs="tcp:116128:6"/>
+ſaid Ordinance; And in the ſame Warrant it ſhall be expreſſed for what purpoſe the money contain<g ref="char:EOLhyphen"/>ed in the ſame is to be iſſued: And the ſaid Warrants, with a Receipt thereupon under the Hand of the party to whom the ſame is direct<g ref="char:EOLhyphen"/>ed to be paid, or his Aſsignee or Aſsignees, ſhall be a ſufficient Diſcharge to the ſaid Treaſurers and every of them, for ſo much as they ſhall thereupon iſſue forth. And it is alſo Ordained, That all the moneys raiſed or to be raiſed by vertue of the ſaid Ordinance, ſhall be employed onely for the pur<g ref="char:EOLhyphen"/>poſes, uſes and intents therein mentioned and expreſſed, and no otherwiſe: And no Warrant ſhall be made from the ſaid Committee, or any other, or if iſſued, ſhall be obeyed, but onely for the purpoſes aforeſaid.</p>
+            <p>
+               <pb n="12" facs="tcp:116128:7"/>
+And it is alſo farther Ordained, That the ſaid Treaſurers at Wars for their pains in receiving and iſ<g ref="char:EOLhyphen"/>ſuing forth of all the moneys rai<g ref="char:EOLhyphen"/>ſed or to be raiſed and received by vertue of the ſaid recited Ordi<g ref="char:EOLhyphen"/>nance, and this preſent Ordinance, and in conſideration, they ſhall ex<g ref="char:EOLhyphen"/>ecute the employment of the Trea<g ref="char:EOLhyphen"/>ſurer at Wars, ſhall have three pence for every pound they ſhall receive and iſſue forth of the mo<g ref="char:EOLhyphen"/>neys taxed, levied and paid by ver<g ref="char:EOLhyphen"/>tue of the ſaid recited Ordinance, or this preſent Ordinance; And ſhall alſo have three pounds five ſhillings four pence <hi>per diem,</hi> to be diſpoſed of as they ſhall think fit, for the payment of ſuch perſons as they ſhall think meet to make uſe of, for the better execution of the ſaid employment of Treaſu<g ref="char:EOLhyphen"/>rer at Wars, and all other char<g ref="char:EOLhyphen"/>ges
+<pb n="13" facs="tcp:116128:7"/>
+allowed to Sir <hi>Gilbert Gerrard</hi> as Treaſurer at Wars, and ſhall iſsue moneys for the ſame with<g ref="char:EOLhyphen"/>out any farther or other allow<g ref="char:EOLhyphen"/>ance, the ſaid allowances to be paid monethly.</p>
+            <p>And be it farther Ordained by the authority aforeſaid, That the ſaid Committee and Treaſu<g ref="char:EOLhyphen"/>rers at Wars do make due allow<g ref="char:EOLhyphen"/>ance and payment of all Free<g ref="char:EOLhyphen"/>quarter taken by any the Forces mentioned in the ſaid Ordinance, ſince the ſaid Five and twentieth day of <hi>March</hi> laſt, and alſo from henceforth to be taken by them, or any of them, according to ſuch proportions, and in ſuch maner as they or any of them did allow the ſame, or cauſe to be paid out of the aſseſsments for the <hi>Army</hi> in the aſsociation; and to put in execu<g ref="char:EOLhyphen"/>tion the Inſtructions, Rules and
+<pb n="14" facs="tcp:116128:8"/>
+               <hi>Directions, made and Ordained in that behalf by both Houſes of Par<g ref="char:EOLhyphen"/>liament, bearing Date the Six<g ref="char:EOLhyphen"/>teenth day of</hi> May, 1645.</p>
+            <div type="resolution">
+               <head>
+                  <hi>Reſolved,</hi> &amp;c.</head>
+               <p>THat <hi>John Braudlin</hi> Eſquire, <hi>Peter Fiſher</hi> Gentleman, <hi>Ro<g ref="char:EOLhyphen"/>bert Damon</hi> Gentleman, be added as Commiſsioners in the County of <hi>Suffolk,</hi> to the Ordinance for Threeſcore thouſand pounds a Moneth, for the Armies of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> and <hi>Ireland.</hi>
+               </p>
+            </div>
+            <div type="resolution">
+               <head>
+                  <hi>Reſolved,</hi> &amp;c.</head>
+               <p>That <hi>John Braudlin</hi> Eſquire, <hi>Peter Fiſher</hi> Gentleman, <hi>Ma<g ref="char:EOLhyphen"/>nuel</hi>
+                  <pb n="15" facs="tcp:116128:8"/>
+                  <hi>Sorrel</hi> Gentleman, and <hi>Ro<g ref="char:EOLhyphen"/>bert Damon</hi> Gentlman, be added as Commiſsioners in the Coun<g ref="char:EOLhyphen"/>ty of <hi>Suffolk,</hi> to the Ordinance for Threeſcore thouſand pounds a Moneth, for the Armies of <hi>England</hi> and <hi>Ireland.</hi>
+               </p>
+            </div>
+            <closer>
+               <signed>H: Elſynge, Cler. Parl. D. Com.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
